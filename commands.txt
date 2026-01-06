@@ -1,0 +1,18 @@
+// In this file , we have git commands and their short description
+
+1) git status : It use to check that what is the status like what we modified and what we add on the perticular branch.
+
+
+2) git branch : It is use to check on this time we are on which branch.
+
+3) git push : It is use to push our work from local to a particular branch in which everone can see our code.
+
+4) git checkout :  It is use to create a branch(if not present a branch ) and if branch is present then we move inside that branch.
+
+5) git add : It is use when we create a new file or modified a file  then we use this commant to create our work ready to commit.
+
+6) git commit : It is use when we add our work and we want to save a snapshot like in which time what work we do for that we use that command.
+
+7) git pull : when we want to import another person work in our local machine for this work we use pull command.
+
+8) git init : when we want to create local repo for this we use this command.
